@@ -20,7 +20,7 @@
 
 <h3 align="center">Github Stats</h3>
 <p align="center">
-<img alt="minhazmiraz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/minhazmiraz?cardType=level&theme=tokyonight" />
+<img alt="minhazmiraz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=minhazmiraz&show_icons=true&theme=dark&locale=en" />
 <br />
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=minhazmiraz&" alt="minhazmiraz" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazmiraz&show_icons=true&locale=en&layout=compact" alt="minhazmiraz" />
