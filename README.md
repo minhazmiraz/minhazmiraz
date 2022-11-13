@@ -24,8 +24,8 @@
 <p align="center">
 <img alt="minhazmiraz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/minhazmiraz?cardType=level&theme=tokyonight" />
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minhazmiraz&" alt="minhazmiraz" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazmiraz&show_icons=true&locale=en&layout=compact" alt="minhazmiraz" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=minhazmiraz&" alt="minhazmiraz" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazmiraz&show_icons=true&locale=en&layout=compact" alt="minhazmiraz" />
 </p>
 
 <!-- <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
@@ -38,5 +38,5 @@
 <h3 align="center">&#128200; Competitive Programming</h3>
 <p align="center">
 <img height="250em" src="https://raw.githubusercontent.com/minhazmiraz/cf-stats/main/output/light_card.svg" />
-<img height="200em" src="https://leetcard.jacoblin.cool/minhazmiraz?theme=light&font=Karma&ext=contest" />
+<img height="170em" src="https://leetcard.jacoblin.cool/minhazmiraz?theme=light&font=Karma&ext=contest" />
 </p>
