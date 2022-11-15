@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✋, I'm Minhazul Islam</h1>
-<h3 align="center">A passionate software engineer from Dhaka, Bangladesh</h3>
+<h3 align="center">A passionate software engineer from Chittagong, Bangladesh</h3>
 
 <br/>
 <h3 align="center">Connect with me</h3>
